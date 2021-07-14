@@ -7,3 +7,5 @@ Berisikan File
 # Tampilan desain database (CDM / PDM / ERD)
 ![image.png](https://github.com/REgiyan/Menampilkan-Join-Table/blob/main/Screenshot%20(94).png)
 <img src="https://github.com/REgiyan/Menampilkan-Join-Table/blob/main/Screenshot%20(94).png"  width="600" height="400">
+# Tampilan Index
+![image.png]()
