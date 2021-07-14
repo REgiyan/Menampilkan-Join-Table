@@ -1,6 +1,6 @@
 # Menampilkan-Join-Table
 Tugas Matakuliah Praktikum Perancangan Basis Data
-Berisikan File 
+ Berisikan File 
 - index.php
 - koneksi.php
 - Database.sql dengan nama (sistem penjualan.sql)
